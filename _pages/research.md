@@ -27,7 +27,7 @@ author_profile: true
 		  <summary>Abstract</summary>
 Formal property ownership may not empower women unless those that they interact with also recognize it. I study the eﬀect of improving awareness about property rights on women’s empowerment through a ﬁeld experiment in rural Maharashtra. I work in a setting where following a recent policy change married women are documented owners but only 26% recognize it. I randomize an awareness campaign across 1,783 households that informs both spouses that women co-own their property and delivers a physical copy of their ownership document. The campaign improves knowledge that women hold property rights, increases expenditure on women-speciﬁc goods by 40%, and reduces men’s alcohol consumption by 33%, though it has no overall eﬀect on domestic violence. I develop and test an intrahousehold bargaining model, which highlights that the eﬀect of the campaign may diﬀer depending on who already knows. Consistent with the model’s predictions, the strongest consumption eﬀects are observed in households with the lowest initial knowledge about women’s ownership, while reductions in domestic violence occur in households where the husband did not know but the wife did. This study highlights how shifting beliefs about women’s rights is essential to realizing the full impact of large-scale government programs.
 	</details>  
-<small> Coverage: [Published across Maharashtra in Sakal Newspaper](https://www.dropbox.com/scl/fi/zqo8gtgdl3wg3cw7sq3yt/Sakal-article-HouseforTwo.jpeg?rlkey=7pal5uu6e1uqxib1ejhgt3dtn&st=akzejzfh&dl=0) </small>
+<small> Coverage: [Published across Maharashtra in Sakal Newspaper](https://www.dropbox.com/scl/fi/zqo8gtgdl3wg3cw7sq3yt/Sakal-article-HouseforTwo.jpeg?rlkey=7pal5uu6e1uqxib1ejhgt3dtn&st=akzejzfh&dl=0), [BBC (Marathi)](https://www.bbc.com/marathi/articles/cn8y60e8pldo) </small>
 
 ### Working Papers
 
@@ -43,7 +43,7 @@ How does being connected to a local elected leader affect property tax complianc
 * **Unpacking Willingness to Pay as a Measure of Women's Empowerment**  
 <small> with [Aletheia Donald](https://sites.google.com/view/aletheiadonald/about), [William Hickman](https://www.williamhickman.net/home) and [Berber Kramer](https://www.ifpri.org/profile/berber-kramer/) </small>
 
-* **Skills to Jobs: How Community and Household Networks Impact Women’s Workforce Entry**  
+* **Community and Household Networks and Women’s Workforce Entry**  
 <small> with [Tushar Kundu](https://tusharkundu.github.io/) </small>
 	
 * **Signaling in Female Education**  
