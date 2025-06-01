@@ -8,11 +8,11 @@ redirect_from:
 excerpt: "Fifth year Economics PhD Student"
 ---
 
-Hello ! I am an Economics PhD candidate at Columbia University.
+Hello ! 
 
-I am a development economist with a focus on public economics, gender, and family economics. I was a NBER Gender in the Economy Fellow for 2023-2024.  
+I am an applied economist with interests in development, public, and family economics. I will be joining <a href="https://www.bi.team"> Behavioural Insights Team's London Office</a> in September 2025. 
 
-Before Columbia, I received my bachelor’s degree in Economics from Delhi University in 2016 and my master’s degree in Economics from Delhi School of Economics in 2018. 
+I recently completed my PhD in Economics at Columbia University. Before Columbia, I received my bachelor’s degree in Economics from Delhi University in 2016 and my master’s degree in Economics from Delhi School of Economics in 2018. 
 
-I am on the 2024-2025 Job Market. In my job market paper, I study the effect of improving women's property rights on their empowerment outcomes. I conduct a field experiment in India in collaboration with the local government and an NGO working on gender issues. For more details on the paper please refer to the <a href="https://akankshavardani.github.io/research/">Research</a> page.
+If you want a taste of some cool economic theory with a touch of photography, check out <a href="http://cesarbarilla.com">César Barilla's work</a>!
 
