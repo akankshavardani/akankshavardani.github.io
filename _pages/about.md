@@ -10,7 +10,7 @@ excerpt: "Fifth year Economics PhD Student"
 
 Hello ! 
 
-I am an applied economist with interests in development, public, and family economics. I will be joining <a href="https://www.bi.team"> Behavioural Insights Team's</a> London Office in September 2025. 
+I am an applied economist with interests in development, public, and family economics. I will be joining <a href="https://www.bi.team"> Behavioural Insights Team's</a> London office in September 2025. 
 
 I recently completed my PhD in Economics at Columbia University. Before Columbia, I received my bachelor’s degree in Economics from Delhi University in 2016 and my master’s degree in Economics from Delhi School of Economics in 2018. 
 
