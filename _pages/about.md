@@ -14,5 +14,8 @@ I am an applied economist with interests in development, public, and family econ
 
 I recently completed my PhD in Economics at Columbia University. Before Columbia, I received my bachelor’s degree in Economics from Delhi University in 2016 and my master’s degree in Economics from Delhi School of Economics in 2018. 
 
-If you want a taste of some cool economic theory with a touch of photography, check out <a href="http://cesarbarilla.com">César Barilla's</a> work!
+
+
+
+P.S. If you want a taste of some cool economic theory with a touch of photography, check out <a href="http://cesarbarilla.com">César Barilla's</a> work!
 
