@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Akanksha Vardani"
 title_separator          : "-"
 name                     : &name "Akanksha Vardani"
-description              : &description "PhD Candidate in Economics"
+description              : &description "Research Advisor, Behavioural Insights Team"
 url                      : https://akankshavardani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "akankshavardani/akankshavardani.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Akanksha Vardani"
   avatar           : "photo_2.jpg"
-  bio              : "PhD Candidate in Economics"
-  location         : "New York"
-  employer         : "Columbia University"
+  bio              : "Research Advisor"
+  location         : "London"
+  employer         : "CBehavioural Insights Team"
   pubmed           : 
   googlescholar    : 
   email            : "akanksha.vardani@columbia.edu"
